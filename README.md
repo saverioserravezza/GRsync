@@ -1,4 +1,8 @@
 # GRsync
+
+**NOTE: This is a fork of https://github.com/clyang/GRsync: added Python3 support and disable Camera shutdown after download**
+
+
 GRsync is a handy Python script, which allows you to sync photos from Ricoh GR II or III via Wifi. It has been tested on Mac OS X and Ubuntu, and should be able to run on any platform that has a Python environment.
 
 It automatically checks if photos already exists in your local drive. Duplicated photos will be skipped and only sync needed photos for you.
