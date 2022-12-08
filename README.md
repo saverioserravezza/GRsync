@@ -13,7 +13,7 @@ It automatically checks if photos already exists in your local drive. Duplicated
 1. Get the source from Github
  
 ```bash
-$ wget https://raw.githubusercontent.com/clyang/GRsync/master/GRsync.py
+$ wget https://raw.githubusercontent.com/saverioserravezza/GRsync/master/GRsync.py
 $ chmod +x GRsync.py
 ```
 
